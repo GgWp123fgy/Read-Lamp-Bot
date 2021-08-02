@@ -1,0 +1,18 @@
+{
+  "name": "vont",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xersuka.js",
+  "scripts": {
+    "start": "node xersuka.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config-js": "^1.1.15",
+    "fs": "0.0.1-security",
+    "prequest": "^1.0.0",
+    "settings": "^0.1.1",
+    "vk-io": "^4.0.0-rc.30"
+  }
+}
