@@ -1,2 +1,2 @@
-web: node xersuka.js
-work: node xersuka.js
+web: node app.js
+work: node app.js
